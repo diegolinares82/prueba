@@ -16,7 +16,7 @@ public class ProyectoGithub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //Proyecto de prueba
+        // Proyecto de prueba
         System.out.println("esta es una prueba");        
     }
     
